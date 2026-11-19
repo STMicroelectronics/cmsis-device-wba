@@ -34,6 +34,34 @@ Various template file are provided to easily build an application. They can be a
 
 # Update History
 
+<label for="collapse-section15" aria-hidden="true">V1.11.0 / 28-October-2026</label>
+<div>
+
+## Main Changes
+
+### Official Release of **STM32CubeWBA** Firmware package supporting **STM32WBA2x**, **STM32WBA5x** and **STM32WBA6x** devices
+
+## Contents
+
+### Official Release of **CMSIS devices** drivers supporting **STM32WBA2x**, **STM32WBA5x** and **STM32WBA6x** devices
+
+- Updated XSPI_BASE address MACRO to External memory address and renamed MACRO for XSPI Periperhal base address.
+
+
+## Known Limitations
+
+- None
+
+## Dependencies
+
+- None
+
+## Notes
+
+- None
+
+</div>
+
 <label for="collapse-section14" aria-hidden="true">V1.10.0 / 03-June-2026</label>
 <div>
 
